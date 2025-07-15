@@ -1,8 +1,7 @@
 body {
     background-image: url("Echo.jpg");
     background-repeat: no-repeat;
-    background-size: 500px 500px;
-    background-size: cover;
+    background-size: 350px 350px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-align: center;
